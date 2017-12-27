@@ -2,7 +2,7 @@
 
 [![](https://jitpack.io/v/Binary-Finery/Bungee.svg)](https://jitpack.io/#Binary-Finery/Bungee)
 
-- mid SDK 16 (Android Jellybean 4.1)
+- min SDK 16 (Android Jellybean 4.1)
 - written in Java
 
 A lightweight, easy-to-use Android library that provides awesome activity transition animations.
