@@ -55,4 +55,14 @@ public void onBackPressed(){
   Bungee.slideLeft(context); //fire the slide left animation
 }
 ```
+All the available methods for this library:
+
+```java
+Bungee.slideLeft(context); 
+Bungee.slideRight(context); 
+Bungee.slideDown(context);
+Bungee.slideUp(context);
+Bungee.fade(context);
+Bungee.zoom(context);
+```
 
