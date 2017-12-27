@@ -5,7 +5,10 @@
 - mid SDK 16 (Android Jellybean 4.1)
 - written in Java
 
-A lightweight, easy-to-use Android library that makes awesome activity transition animations super simple.
+A lightweight, easy-to-use Android library that provides awesome activity transition animations.
+
+To download the demo app for this library from Google Playstore so you can see it in action, [click here](https://play.google.com/store/apps/details?id=com.spencerstudios.bungeelibrarydemo)
+
 
 ## Installation
 
@@ -43,7 +46,7 @@ Using Bungee is extremely simple, A single short line of code following startAct
 
 ```java
 startActivity(new Intent(context, TargetActivity.class));
-Bungee.zoom(context);  //fires the zoom animation
+Bungee.zoom(context);  //fire the zoom animation
 ```
 
 Another example, this time firing the animation when the back button is pressed:
