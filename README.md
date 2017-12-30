@@ -27,13 +27,13 @@ Add the dependency to your module build.gradle:
 
 ```java
 dependencies {
-	        compile 'com.github.Binary-Finery:Bungee:1.0'
+	        compile 'com.github.Binary-Finery:Bungee:master-SNAPSHOT'
 	}
 ```
 
 ## Usage
 
-Bungee has 6 different activity transition animations:
+Bungee has 9 different activity transition animations:
 
 - slide left
 - slide right
@@ -41,6 +41,9 @@ Bungee has 6 different activity transition animations:
 - slide down
 - zoom
 - fade
+- spin
+- diagonal
+- windmill
 
 Using Bungee is extremely simple, A single short line of code following startActivity(...) is all that's needed, for example:
 
@@ -67,5 +70,8 @@ Bungee.slideDown(context);
 Bungee.slideUp(context);
 Bungee.fade(context);
 Bungee.zoom(context);
+Bungee.windmill(context);
+Bungee.diagonal(context);
+Bungee.spin(context);
 ```
 
