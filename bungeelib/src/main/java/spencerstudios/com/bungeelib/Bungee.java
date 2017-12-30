@@ -28,4 +28,16 @@ public class Bungee {
     public static void fade(Context context) {
         ((Activity) context).overridePendingTransition(R.anim.fade_enter, R.anim.fade_exit);
     }
+
+    public static void windmill(Context context) {
+        ((Activity) context).overridePendingTransition(R.anim.windmill_enter, R.anim.windmill_exit);
+    }
+
+    public static void spin(Context context) {
+        ((Activity) context).overridePendingTransition(R.anim.spin_enter, R.anim.spin_exit);
+    }
+
+    public static void diagonal(Context context) {
+        ((Activity) context).overridePendingTransition(R.anim.diagonal_right_enter, R.anim.diagonal_right_exit);
+    }
 }
