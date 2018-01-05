@@ -1,6 +1,5 @@
 # Bungee
 
-[![](https://jitpack.io/v/Binary-Finery/Bungee.svg)](https://jitpack.io/#Binary-Finery/Bungee)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Bungee-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/6625)
 - min SDK 16 (Android Jellybean 4.1)
 - written in Java
