@@ -14,9 +14,4 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-
-    public void startActivity(View v){
-        startActivity(new Intent(this,SecondActivity.class));
-        Bungee.swipeRight(this);
-    }
 }
