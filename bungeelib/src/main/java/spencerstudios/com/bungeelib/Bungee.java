@@ -48,4 +48,8 @@ public class Bungee {
     public static void shrink(Context context) {
         ((Activity) context).overridePendingTransition(R.anim.shrink_enter, R.anim.shrink_exit);
     }
+
+    public static void card(Context context) {
+        ((Activity) context).overridePendingTransition(R.anim.card_enter, R.anim.card_exit);
+    }
 }
