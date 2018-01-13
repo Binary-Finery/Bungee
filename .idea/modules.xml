@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bungee.iml" filepath="$PROJECT_DIR$/Bungee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bungee.iml" filepath="$PROJECT_DIR$/Bungee.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bungeelib/bungeelib.iml" filepath="$PROJECT_DIR$/bungeelib/bungeelib.iml" />
       <module fileurl="file://$PROJECT_DIR$/bungeelib/bungeelib.iml" filepath="$PROJECT_DIR$/bungeelib/bungeelib.iml" />
     </modules>
   </component>
