@@ -40,4 +40,8 @@ public class Bungee {
     public static void diagonal(Context context) {
         ((Activity) context).overridePendingTransition(R.anim.diagonal_right_enter, R.anim.diagonal_right_exit);
     }
+
+    public static void revolvingDoor(Context context){
+        ((Activity) context).overridePendingTransition(R.anim.revolving_door_enter, R.anim.revolving_door_exit);
+    }
 }
