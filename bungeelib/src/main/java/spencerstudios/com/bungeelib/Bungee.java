@@ -56,4 +56,12 @@ public class Bungee {
     public static void inAndOut(Context context) {
         ((Activity) context).overridePendingTransition(R.anim.in_out_enter, R.anim.in_out_exit);
     }
+
+    public static void swipeLeft(Context context) {
+        ((Activity) context).overridePendingTransition(R.anim.swipe_left_enter, R.anim.swipe_left_exit);
+    }
+
+    public static void swipeRight(Context context) {
+        ((Activity) context).overridePendingTransition(R.anim.swipe_right_enter, R.anim.swipe_right_exit);
+    }
 }

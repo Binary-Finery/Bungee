@@ -17,6 +17,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void startActivity(View v){
         startActivity(new Intent(this,SecondActivity.class));
-        Bungee.inAndOut(this);
+        Bungee.swipeRight(this);
     }
 }
