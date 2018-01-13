@@ -40,4 +40,28 @@ public class Bungee {
     public static void diagonal(Context context) {
         ((Activity) context).overridePendingTransition(R.anim.diagonal_right_enter, R.anim.diagonal_right_exit);
     }
+
+    public static void split(Context context){
+        ((Activity) context).overridePendingTransition(R.anim.split_enter, R.anim.split_exit);
+    }
+
+    public static void shrink(Context context) {
+        ((Activity) context).overridePendingTransition(R.anim.shrink_enter, R.anim.shrink_exit);
+    }
+
+    public static void card(Context context) {
+        ((Activity) context).overridePendingTransition(R.anim.card_enter, R.anim.card_exit);
+    }
+
+    public static void inAndOut(Context context) {
+        ((Activity) context).overridePendingTransition(R.anim.in_out_enter, R.anim.in_out_exit);
+    }
+
+    public static void swipeLeft(Context context) {
+        ((Activity) context).overridePendingTransition(R.anim.swipe_left_enter, R.anim.swipe_left_exit);
+    }
+
+    public static void swipeRight(Context context) {
+        ((Activity) context).overridePendingTransition(R.anim.swipe_right_enter, R.anim.swipe_right_exit);
+    }
 }

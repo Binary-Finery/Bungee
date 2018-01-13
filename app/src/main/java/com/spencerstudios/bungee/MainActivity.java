@@ -1,7 +1,11 @@
 package com.spencerstudios.bungee;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.view.View;
+
+import spencerstudios.com.bungeelib.Bungee;
 
 public class MainActivity extends AppCompatActivity {
 
