@@ -32,12 +32,17 @@ dependencies {
 
 ## Usage
 
-Bungee has 9 different activity transition animations:
-
-- slide left
-- slide right
+Bungee has 15 different activity transition animations:
+- split
+- shrink
+- card
+- in and out
+- swipe left
+- swipe right
 - slide up
 - slide down
+- slide left
+- slide right
 - zoom
 - fade
 - spin
@@ -63,6 +68,12 @@ public void onBackPressed(){
 All the available methods for this library:
 
 ```java
+Bungee.split(context);
+Bungee.shrink(content);
+Bungee.card(context);
+Bungee.inAndOut(context);
+Bungee.swipeLeft(context);
+Bungee.swiperRight(context);
 Bungee.slideLeft(context); 
 Bungee.slideRight(context); 
 Bungee.slideDown(context);
