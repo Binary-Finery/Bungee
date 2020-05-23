@@ -1,6 +1,5 @@
 # Bungee
-
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Bungee-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/6625)
+[![](https://jitpack.io/v/kojofosu/Bungee.svg)](https://jitpack.io/#kojofosu/Bungee)        [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Bungee-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/6625)  
 - min SDK 16 (Android Jellybean 4.1)
 - written in Java
 
@@ -26,7 +25,7 @@ Add the dependency to your module build.gradle:
 
 ```java
 dependencies {
-	        compile 'com.github.Binary-Finery:Bungee:2.0'
+	        implementation 'com.github.kojofosu:Bungee:2.1'
 	}
 ```
 
