@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Bungee.iml" filepath="$PROJECT_DIR$/.idea/Bungee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Bungee.iml" filepath="$PROJECT_DIR$/.idea/Bungee.iml" group="Bungee" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Bungee/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bungeelib/bungeelib.iml" filepath="$PROJECT_DIR$/.idea/modules/bungeelib/bungeelib.iml" group="Bungee/bungeelib" />
     </modules>
   </component>
 </project>
