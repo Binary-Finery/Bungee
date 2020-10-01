@@ -6,7 +6,7 @@
 
 A lightweight, easy-to-use Android library that provides awesome activity transition animations.
 
-To download the demo app for this library from Google Playstore so you can see it in action, [click here](https://play.google.com/store/apps/details?id=com.spencerstudios.bungeelibrarydemo)
+To download the demo app for this library from Google Play Store so you can see it in action, [click here](https://play.google.com/store/apps/details?id=com.spencerstudios.bungeelibrarydemo)
 
 
 ## Installation
