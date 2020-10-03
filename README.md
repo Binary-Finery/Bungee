@@ -26,7 +26,7 @@ Add the dependency to your module build.gradle:
 
 ```java
 dependencies {
-	        compile 'com.github.Binary-Finery:Bungee:2.0'
+	        compile 'com.github.Binary-Finery:Bungee:3.0'
 	}
 ```
 
